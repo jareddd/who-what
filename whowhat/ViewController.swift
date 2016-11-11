@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("whobudy whatuby and then more stuff more changes here and this is way cool")
         print("some more changes here to see what we can do")
         print("the something here or there")
+        print("this is after the merge from master")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
